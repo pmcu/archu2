@@ -4,5 +4,5 @@ permalink: /
 
 # Index
 
-- [Eolas](/eolas/)
-- [Alt 1](/alt1/)
+- [Eolas](eolas)
+- [Alt 1](alt1)
